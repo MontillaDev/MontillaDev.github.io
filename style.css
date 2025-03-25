@@ -20,6 +20,8 @@ body{
     overflow-x: hidden;
     background-color: black;
     color: white;
+    margin: 0;
+    padding: 0;
 }
 
 header{
@@ -142,7 +144,7 @@ span{
 
 .home-img img{
     position: relative;
-    width: 70vw;
+    width: 32vw;
     border-radius: 50%;
     box-shadow: 0 0 15px #e51616;
     cursor: pointer;
