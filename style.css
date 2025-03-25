@@ -18,13 +18,12 @@ body{
     width: 100%;
     height: 100vh;
     overflow-x: hidden;
-<<<<<<< HEAD
     background-color: #171717;
     color: black;
-=======
     background-color: blac;
     color: white;
->>>>>>> fb7831b30782ff4574a69c88f7654b09fabdf309
+    padding: 0;
+    margin: 0;
 }
 
 header{
