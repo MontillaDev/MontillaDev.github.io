@@ -137,7 +137,7 @@ span{
 }
 
 .home-content p{
-    font-size: 1.4rem;
+    font-size: 1.8rem;
 }
 
 .home-img{
@@ -270,7 +270,7 @@ span{
     }
 
     .home-content h1{
-        font-size: 4    rem;
+        font-size: 4rem;
     }
 
     .home-img img{
@@ -279,13 +279,13 @@ span{
     }
 
     .home-content p {
-        font-size: 1.4rem; /* Mantener tamaño adecuado */
+        font-size: 1.8rem;
     }
 
     .social-icons a {
-        width: 3rem; /* Ajustar iconos sociales */
-        height: 3rem; /* Ajustar iconos sociales */
-        font-size: 1.5rem; /* Ajustar tamaño de fuente */
+        width: 3rem;
+        height: 3rem;
+        font-size: 1.5rem;
     }
 }
 
